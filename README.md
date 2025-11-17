@@ -14,3 +14,10 @@ El propósito del sistema de registro de usuarios es permitir que las personas s
 | **Registro de nuevos usuarios** | **Nombre:** Jorley<br>**Apellido:** Acurio<br>**Correo:** jorleyk@gmail.com<br>**Contraseña:** 20604080 | Perfil creado exitosamente. | Creación de perfil exitosa. |
 | **Consulta de la información del perfil** | **Dirección:** Villanueva<br>**Fecha de nacimiento:** 03 de septiembre de 2004 | Consulta de información. | Consulta exitosa. |
 | **Inicio de sesión de usuarios** | **Correo:** jorleyk@gmail.com<br>**Contraseña:** 20604080 | Datos registrados. | Inicio de sesión exitoso. |
+
+# 🧪 Tabla de Casos de Validación
+
+| **Requerimiento asociado** | **Datos de entrada** | **Resultado esperado** | **Resultado obtenido** |
+|----------------------------|-----------------------|-------------------------|--------------------------|
+| **Eficiencia** | Datos del usuario. | Registrarse rápidamente. | Registro rápido exitoso. |
+| **Sencillez de reparación** | Problemas con la contraseña. | Recuperación de contraseña. | Recuperación exitosa. |
