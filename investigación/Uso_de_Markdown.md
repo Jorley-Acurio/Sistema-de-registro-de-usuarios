@@ -88,7 +88,7 @@ Este es un ejemplo práctico que ilustra el uso de Markdown en un documento est�
 | Nombre | Rol | Estado |
 |--------|------|--------|
 | Andrés | Desarrolladora | Activa |
-| María | Tester | Activo |
+| Katherine | Tester | Activo |
 | Jorley | Documentación | Inactiva |
 
 
