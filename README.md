@@ -1,11 +1,16 @@
 # Sistema-de-registro-de-usuarios
 ## 📌 Descripción del Caso
 
-Una plataforma que ha sido desarrollada para posibilitar que los individuos establezcan, administren y mantengan cuentas de acceso en un sitio web o aplicación, se conoce como sistema de registro de usuarios.  Su tarea principal es compilar y guardar de forma segura los datos personales necesarios para distinguir a cada usuario y otorgarle los permisos apropiados en el sistema.
-El sistema cuenta con funciones fundamentales, entre las que se encuentran: registrar a los usuarios nuevos, iniciar sesión con credenciales válidas, consultar y modificar datos del perfil, recuperar contraseñas y permitir que un administrador supervise, habilite o elimine cuentas. La información se maneja a través de una base de datos segura que resguarda los datos delicados y garantiza que solo los usuarios con autorización puedan acceder a las funciones que les corresponden según su rol.
-Este sistema es esencial para asegurar un acceso controlado y seguro, proporcionando una experiencia en la que tanto los administradores como los usuarios finales puedan confiar.  Asimismo, representa el fundamento para la gestión eficaz de los usuarios, así como para la personalización y seguridad en cualquier plataforma digital.
+El sistema de registro de usuarios es una plataforma que permite a las personas crear, administrar y mantener cuentas de acceso en una aplicación o sitio web. Su función principal es almacenar de forma segura los datos personales necesarios para identificar a cada usuario y asignarles los permisos correspondientes. Incluye funciones como registro, inicio de sesión, consulta y edición de perfil, recuperación de contraseñas y gestión administrativa de cuentas. Al operar sobre una base de datos segura, garantiza un acceso controlado y confiable, siendo esencial para la seguridad, personalización y correcta gestión de usuarios en cualquier plataforma digital.
 
 ## 🎯 Objetivo
 
-El propósito del sistema de registro de usuarios es posibilitar que los individuos se registren, accedan y administren sus datos personales en una plataforma con seguridad, fiabilidad y eficacia.  Este sistema tiene como objetivo asegurar la correcta identificación de cada usuario, controlar su nivel de acceso en función de su rol y garantizar que todas las interacciones se lleven a cabo bajo un proceso de protección de datos y autenticación.
-El sistema también tiene como objetivo proporcionar una experiencia fácil y efectiva, simplificando tareas como el registro, la apertura de sesión, la actualización de datos y la recuperación de credenciales. De esta manera, se garantiza que solo aquellos usuarios que cuentan con autorización puedan entrar a los servicios y recursos de la aplicación.
+El propósito del sistema de registro de usuarios es permitir que las personas se registren, accedan y gestionen su información personal de forma segura, confiable y eficiente. Su objetivo es identificar correctamente a cada usuario, asignar los niveles de acceso según su rol y asegurar que todas las acciones se realicen bajo procesos de autenticación y protección de datos. Además, busca ofrecer una experiencia sencilla que facilite tareas como registrarse, iniciar sesión, actualizar información y recuperar credenciales, garantizando que solo usuarios autorizados puedan acceder a los recursos de la plataforma.
+
+# 🧪 Tabla de Pruebas – Casos de Prueba Unitaria
+
+| **Requerimiento asociado** | **Datos de entrada** | **Resultado esperado** | **Resultado obtenido** |
+|----------------------------|-----------------------|-------------------------|--------------------------|
+| **Registro de nuevos usuarios** | **Nombre:** Jorley<br>**Apellido:** Acurio<br>**Correo:** jorleyk@gmail.com<br>**Contraseña:** 20604080 | Perfil creado exitosamente. | Creación de perfil exitosa. |
+| **Consulta de la información del perfil** | **Dirección:** Villanueva<br>**Fecha de nacimiento:** 03 de septiembre de 2004 | Consulta de información. | Consulta exitosa. |
+| **Inicio de sesión de usuarios** | **Correo:** jorleyk@gmail.com<br>**Contraseña:** 20604080 | Datos registrados. | Inicio de sesión exitoso. |
