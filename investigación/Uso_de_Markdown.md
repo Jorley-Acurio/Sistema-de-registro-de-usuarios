@@ -1,1 +1,2 @@
-#¿QUÉ ES MARKDOWN?
+##  🤔¿QUÉ ES MARKDOWN?
+Markdown es un lenguaje de marcado liviano que posibilita la formateación de textos de forma sencilla, a través de una sintaxis que es fácil tanto de leer como de escribir.  Se emplea para generar contenido estructurado, notas, documentación y archivos README, sobre todo en proyectos de software, ya que es fácil convertirlo a HTML y funciona bien con plataformas como GitHub.
