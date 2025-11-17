@@ -55,7 +55,12 @@ Posibilita la inclusión de:
 
 # 📘 Ejemplo de Uso de Markdown
 
+# 👋 Encabezado de Primer Nivel
 ## 👋 Encabezado de Segundo Nivel
+### 👋 Encabezado de Tercer Nivel
+#### 👋 Encabezado de Cuarto Nivel
+##### 👋 Encabezado de Quinto Nivel
+###### 👋 Encabezado de Sexto Nivel
 
 Este es un ejemplo práctico que ilustra el uso de Markdown en un documento estándar de un proyecto de software.
 
