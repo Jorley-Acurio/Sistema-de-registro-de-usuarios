@@ -93,4 +93,4 @@ Visita el siguiente enlace para acceder a GitHub:
 
 ## 🖼️ Imagen de Ejemplo
 
-![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
+<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="80">
