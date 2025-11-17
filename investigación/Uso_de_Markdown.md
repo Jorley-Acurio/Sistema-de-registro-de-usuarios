@@ -87,19 +87,10 @@ Este es un ejemplo práctico que ilustra el uso de Markdown en un documento est�
 | Jorley | Documentación | Inactiva |
 
 
-## 🔗 Enlace de Ejemplo
-
-Visita el siguiente enlace para acceder a Aula Grado:  
-
-[Ir a Aula Grado UNEMI]([https://github.com/](https://aulagradoa.unemi.edu.ec/login/index.php))
-
+Visita el siguiente enlace para acceder a GitHub:  
+[Ir a GitHub](https://github.com/)
 
 
 ## 🖼️ Imagen de Ejemplo
 
-![Logo de Aula Grado](//aulagradoa.unemi.edu.ec/pluginfile.php/1/theme_space/customloginlogo/1761405300/logo_grado%20%282%29.png)
-
-
-
-
-
+![Logo de GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)
