@@ -94,6 +94,7 @@ Visita el siguiente enlace para acceder a Aula Grado:
 [Ir a Aula Grado UNEMI]([https://github.com/](https://aulagradoa.unemi.edu.ec/login/index.php))
 
 
+
 ## 🖼️ Imagen de Ejemplo
 
 ![Logo de Aula Grado](//aulagradoa.unemi.edu.ec/pluginfile.php/1/theme_space/customloginlogo/1761405300/logo_grado%20%282%29.png)
